@@ -7,3 +7,9 @@ NodeJs FileSystem Task.
    b) Filename should be current date-time.txt
 
 2. Write API endpoint which will retrieve all the text files in the particular folder.
+
+Endpoints:
+
+http://localhost:3000/
+
+http://localhost:3000/files
